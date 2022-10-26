@@ -1,4 +1,5 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jiko797torayo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jiko797torayo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiko797torayo&hide=html,css,swift)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jiko797torayo/jiko797torayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
