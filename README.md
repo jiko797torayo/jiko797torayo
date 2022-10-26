@@ -1,4 +1,4 @@
-### Hi there 👋
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jiko797torayo&show_icons=true&count_private=true)
 
 <!--
 **jiko797torayo/jiko797torayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
