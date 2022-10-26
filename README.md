@@ -1,5 +1,4 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jiko797torayo&show_icons=true&count_private=true)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=jiko797torayo&layout=compact)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jiko797torayo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
 **jiko797torayo/jiko797torayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
